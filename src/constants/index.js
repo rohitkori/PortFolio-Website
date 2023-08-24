@@ -29,7 +29,7 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "https://media.licdn.com/dms/document/media/D4D2DAQG-gh8xD4CVQQ/profile-treasury-document-pdf-analyzed/0/1684484516272?e=1691020800&v=beta&t=Nc-1-E1-fumNUMJosEjvffQBjlEvOcsOvAr4OuFw3hg",
+    id: "https://drive.google.com/file/d/1Hw89MHfMbNpyMQdmppVzJfHBx4pJZ4O1/view?usp=sharing",
     title: "Resume",
   },
   {
