@@ -29,7 +29,7 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "https://drive.google.com/file/d/1Hw89MHfMbNpyMQdmppVzJfHBx4pJZ4O1/view?usp=sharing",
+    id: "https://drive.google.com/file/d/1cmk8Cc5oWEkaAnBI5SrqH2g9IYTxqn0_/view?usp=sharing",
     title: "Resume",
   },
   {
